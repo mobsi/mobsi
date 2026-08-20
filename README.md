@@ -12,7 +12,7 @@ IT Support Engineer | MSc Cybersecurity | London, UK
 ## Projects
 
 - **[wireless-security-labs](https://github.com/mobsi/wireless-security-labs)** — Kali Linux, Wireshark 802.11 traffic analysis, Evil Twin attack methodology, WPA2 auditing, and Nmap reconnaissance, in my own lab environment.
-- **network-fundamentals-labs** *(planned next)* — Packet Tracer and wired network practice: routing, switching, VLANs, and traffic analysis.
+- **network-fundamentals-labs** — Packet Tracer and wired network practice: routing, switching, VLANs, and traffic analysis.
 
 ## Currently studying
 
