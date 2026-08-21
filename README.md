@@ -1,6 +1,6 @@
 # Oluwaseun Mobolaji-Sanni
 
-IT Support Engineer | MSc Cybersecurity | London, UK
+IT Support Engineer/Service Desk Analyst | MSc Cybersecurity | London, UK
 
 ## Background
 
